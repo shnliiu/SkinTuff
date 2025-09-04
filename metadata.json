@@ -1,0 +1,7 @@
+{
+  "name": "Skincare AI Analyzer",
+  "description": "An AI-powered application to assess skin type and concerns using photos, providing personalized ingredient and product recommendations. This tool is for informational purposes only and does not provide medical advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
